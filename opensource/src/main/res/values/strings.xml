@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DiiaOS</string>
+    <string name="app_name">Дія</string>
     <string name="notification_channel_diia_default">Інші сповіщення</string>
 
     <string name="download_certificate_pdf">Завантажити сертифікат (PDF)</string>
